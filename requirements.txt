@@ -1,0 +1,2 @@
+web3<8
+eth-utils<6
